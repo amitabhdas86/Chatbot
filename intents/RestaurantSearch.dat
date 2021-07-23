@@ -1,0 +1,349 @@
+search restaurant
+search a restaurant
+reserve a table
+want a table
+want a reservation
+want a buffet
+search a table
+search a reservation
+search a buffet
+reserve a table
+reserve a reservation
+reserve a buffet
+require a table
+require a reservation
+require a buffet
+need a table
+need a reservation
+need a buffet
+want a table in restaurant
+want a table in hotel
+want a table in cafe
+want a table in joint
+want a table in eatery
+want a reservation in restaurant
+want a reservation in hotel
+want a reservation in cafe
+want a reservation in joint
+want a reservation in eatery
+want a buffet in restaurant
+want a buffet in hotel
+want a buffet in cafe
+want a buffet in joint
+want a buffet in eatery
+search a table in restaurant
+search a table in hotel
+search a table in cafe
+search a table in joint
+search a table in eatery
+search a reservation in restaurant
+search a reservation in hotel
+search a reservation in cafe
+search a reservation in joint
+search a reservation in eatery
+search a buffet in restaurant
+search a buffet in hotel
+search a buffet in cafe
+search a buffet in joint
+search a buffet in eatery
+reserve a table in restaurant
+reserve a table in hotel
+reserve a table in cafe
+reserve a table in joint
+reserve a table in eatery
+reserve a reservation in restaurant
+reserve a reservation in hotel
+reserve a reservation in cafe
+reserve a reservation in joint
+reserve a reservation in eatery
+reserve a buffet in restaurant
+reserve a buffet in hotel
+reserve a buffet in cafe
+reserve a buffet in joint
+reserve a buffet in eatery
+require a table in restaurant
+require a table in hotel
+require a table in cafe
+require a table in joint
+require a table in eatery
+require a reservation in restaurant
+require a reservation in hotel
+require a reservation in cafe
+require a reservation in joint
+require a reservation in eatery
+require a buffet in restaurant
+require a buffet in hotel
+require a buffet in cafe
+require a buffet in joint
+require a buffet in eatery
+need a table in restaurant
+need a table in hotel
+need a table in cafe
+need a table in joint
+need a table in eatery
+need a reservation in restaurant
+need a reservation in hotel
+need a reservation in cafe
+need a reservation in joint
+need a reservation in eatery
+need a buffet in restaurant
+need a buffet in hotel
+need a buffet in cafe
+need a buffet in joint
+need a buffet in eatery
+want a table in restaurant near $location
+want a table in hotel near $location
+want a table in cafe near $location
+want a table in joint near $location
+want a table in eatery near $location
+want a reservation in restaurant near $location
+want a reservation in hotel near $location
+want a reservation in cafe near $location
+want a reservation in joint near $location
+want a reservation in eatery near $location
+want a buffet in restaurant near $location
+want a buffet in hotel near $location
+want a buffet in cafe near $location
+want a buffet in joint near $location
+want a buffet in eatery near $location
+search a table in restaurant near $location
+search a table in hotel near $location
+search a table in cafe near $location
+search a table in joint near $location
+search a table in eatery near $location
+search a reservation in restaurant near $location
+search a reservation in hotel near $location
+search a reservation in cafe near $location
+search a reservation in joint near $location
+search a reservation in eatery near $location
+search a buffet in restaurant near $location
+search a buffet in hotel near $location
+search a buffet in cafe near $location
+search a buffet in joint near $location
+search a buffet in eatery near $location
+reserve a table in restaurant near $location
+reserve a table in hotel near $location
+reserve a table in cafe near $location
+reserve a table in joint near $location
+reserve a table in eatery near $location
+reserve a reservation in restaurant near $location
+reserve a reservation in hotel near $location
+reserve a reservation in cafe near $location
+reserve a reservation in joint near $location
+reserve a reservation in eatery near $location
+reserve a buffet in restaurant near $location
+reserve a buffet in hotel near $location
+reserve a buffet in cafe near $location
+reserve a buffet in joint near $location
+reserve a buffet in eatery near $location
+require a table in restaurant near $location
+require a table in hotel near $location
+require a table in cafe near $location
+require a table in joint near $location
+require a table in eatery near $location
+require a reservation in restaurant near $location
+require a reservation in hotel near $location
+require a reservation in cafe near $location
+require a reservation in joint near $location
+require a reservation in eatery near $location
+require a buffet in restaurant near $location
+require a buffet in hotel near $location
+require a buffet in cafe near $location
+require a buffet in joint near $location
+require a buffet in eatery near $location
+need a table in restaurant near $location
+need a table in hotel near $location
+need a table in cafe near $location
+need a table in joint near $location
+need a table in eatery near $location
+need a reservation in restaurant near $location
+need a reservation in hotel near $location
+need a reservation in cafe near $location
+need a reservation in joint near $location
+need a reservation in eatery near $location
+need a buffet in restaurant near $location
+need a buffet in hotel near $location
+need a buffet in cafe near $location
+need a buffet in joint near $location
+need a buffet in eatery near $location
+want a table in $cusine restaurant near $location
+want a table in $cusine hotel near $location
+want a table in $cusine cafe near $location
+want a table in $cusine joint near $location
+want a table in $cusine eatery near $location
+want a reservation in $cusine restaurant near $location
+want a reservation in $cusine hotel near $location
+want a reservation in $cusine cafe near $location
+want a reservation in $cusine joint near $location
+want a reservation in $cusine eatery near $location
+want a buffet in $cusine restaurant near $location
+want a buffet in $cusine hotel near $location
+want a buffet in $cusine cafe near $location
+want a buffet in $cusine joint near $location
+want a buffet in $cusine eatery near $location
+search a table in $cusine restaurant near $location
+search a table in $cusine hotel near $location
+search a table in $cusine cafe near $location
+search a table in $cusine joint near $location
+search a table in $cusine eatery near $location
+search a reservation in $cusine restaurant near $location
+search a reservation in $cusine hotel near $location
+search a reservation in $cusine cafe near $location
+search a reservation in $cusine joint near $location
+search a reservation in $cusine eatery near $location
+search a buffet in $cusine restaurant near $location
+search a buffet in $cusine hotel near $location
+search a buffet in $cusine cafe near $location
+search a buffet in $cusine joint near $location
+search a buffet in $cusine eatery near $location
+reserve a table in $cusine restaurant near $location
+reserve a table in $cusine hotel near $location
+reserve a table in $cusine cafe near $location
+reserve a table in $cusine joint near $location
+reserve a table in $cusine eatery near $location
+reserve a reservation in $cusine restaurant near $location
+reserve a reservation in $cusine hotel near $location
+reserve a reservation in $cusine cafe near $location
+reserve a reservation in $cusine joint near $location
+reserve a reservation in $cusine eatery near $location
+reserve a buffet in $cusine restaurant near $location
+reserve a buffet in $cusine hotel near $location
+reserve a buffet in $cusine cafe near $location
+reserve a buffet in $cusine joint near $location
+reserve a buffet in $cusine eatery near $location
+require a table in $cusine restaurant near $location
+require a table in $cusine hotel near $location
+require a table in $cusine cafe near $location
+require a table in $cusine joint near $location
+require a table in $cusine eatery near $location
+require a reservation in $cusine restaurant near $location
+require a reservation in $cusine hotel near $location
+require a reservation in $cusine cafe near $location
+require a reservation in $cusine joint near $location
+require a reservation in $cusine eatery near $location
+require a buffet in $cusine restaurant near $location
+require a buffet in $cusine hotel near $location
+require a buffet in $cusine cafe near $location
+require a buffet in $cusine joint near $location
+require a buffet in $cusine eatery near $location
+need a table in $cusine restaurant near $location
+need a table in $cusine hotel near $location
+need a table in $cusine cafe near $location
+need a table in $cusine joint near $location
+need a table in $cusine eatery near $location
+need a reservation in $cusine restaurant near $location
+need a reservation in $cusine hotel near $location
+need a reservation in $cusine cafe near $location
+need a reservation in $cusine joint near $location
+need a reservation in $cusine eatery near $location
+need a buffet in $cusine restaurant near $location
+need a buffet in $cusine hotel near $location
+need a buffet in $cusine cafe near $location
+need a buffet in $cusine joint near $location
+need a buffet in $cusine eatery near $location
+eat at $cost $cusine restaurant near $location
+eat at $cost $cusine hotel near $location
+eat at $cost $cusine cafe near $location
+eat in $cost $cusine restaurant near $location
+eat in $cost $cusine hotel near $location
+eat in $cost $cusine cafe near $location
+dine at $cost $cusine restaurant near $location
+dine at $cost $cusine hotel near $location
+dine at $cost $cusine cafe near $location
+dine in $cost $cusine restaurant near $location
+dine in $cost $cusine hotel near $location
+dine in $cost $cusine cafe near $location
+lunch at $cost $cusine restaurant near $location
+lunch at $cost $cusine hotel near $location
+lunch at $cost $cusine cafe near $location
+lunch in $cost $cusine restaurant near $location
+lunch in $cost $cusine hotel near $location
+lunch in $cost $cusine cafe near $location
+breakfast at $cost $cusine restaurant near $location
+breakfast at $cost $cusine hotel near $location
+breakfast at $cost $cusine cafe near $location
+breakfast in $cost $cusine restaurant near $location
+breakfast in $cost $cusine hotel near $location
+breakfast in $cost $cusine cafe near $location
+snack at $cost $cusine restaurant near $location
+snack at $cost $cusine hotel near $location
+snack at $cost $cusine cafe near $location
+snack in $cost $cusine restaurant near $location
+snack in $cost $cusine hotel near $location
+snack in $cost $cusine cafe near $location
+want a table in $cost $cusine restaurant near $location
+want a table in $cost $cusine hotel near $location
+want a table in $cost $cusine cafe near $location
+want a table in $cost $cusine joint near $location
+want a table in $cost $cusine eatery near $location
+want a reservation in $cost $cusine restaurant near $location
+want a reservation in $cost $cusine hotel near $location
+want a reservation in $cost $cusine cafe near $location
+want a reservation in $cost $cusine joint near $location
+want a reservation in $cost $cusine eatery near $location
+want a buffet in $cost $cusine restaurant near $location
+want a buffet in $cost $cusine hotel near $location
+want a buffet in $cost $cusine cafe near $location
+want a buffet in $cost $cusine joint near $location
+want a buffet in $cost $cusine eatery near $location
+search a table in $cost $cusine restaurant near $location
+search a table in $cost $cusine hotel near $location
+search a table in $cost $cusine cafe near $location
+search a table in $cost $cusine joint near $location
+search a table in $cost $cusine eatery near $location
+search a reservation in $cost $cusine restaurant near $location
+search a reservation in $cost $cusine hotel near $location
+search a reservation in $cost $cusine cafe near $location
+search a reservation in $cost $cusine joint near $location
+search a reservation in $cost $cusine eatery near $location
+search a buffet in $cost $cusine restaurant near $location
+search a buffet in $cost $cusine hotel near $location
+search a buffet in $cost $cusine cafe near $location
+search a buffet in $cost $cusine joint near $location
+search a buffet in $cost $cusine eatery near $location
+reserve a table in $cost $cusine restaurant near $location
+reserve a table in $cost $cusine hotel near $location
+reserve a table in $cost $cusine cafe near $location
+reserve a table in $cost $cusine joint near $location
+reserve a table in $cost $cusine eatery near $location
+reserve a reservation in $cost $cusine restaurant near $location
+reserve a reservation in $cost $cusine hotel near $location
+reserve a reservation in $cost $cusine cafe near $location
+reserve a reservation in $cost $cusine joint near $location
+reserve a reservation in $cost $cusine eatery near $location
+reserve a buffet in $cost $cusine restaurant near $location
+reserve a buffet in $cost $cusine hotel near $location
+reserve a buffet in $cost $cusine cafe near $location
+reserve a buffet in $cost $cusine joint near $location
+reserve a buffet in $cost $cusine eatery near $location
+require a table in $cost $cusine restaurant near $location
+require a table in $cost $cusine hotel near $location
+require a table in $cost $cusine cafe near $location
+require a table in $cost $cusine joint near $location
+require a table in $cost $cusine eatery near $location
+require a reservation in $cost $cusine restaurant near $location
+require a reservation in $cost $cusine hotel near $location
+require a reservation in $cost $cusine cafe near $location
+require a reservation in $cost $cusine joint near $location
+require a reservation in $cost $cusine eatery near $location
+require a buffet in $cost $cusine restaurant near $location
+require a buffet in $cost $cusine hotel near $location
+require a buffet in $cost $cusine cafe near $location
+require a buffet in $cost $cusine joint near $location
+require a buffet in $cost $cusine eatery near $location
+need a table in $cost $cusine restaurant near $location
+need a table in $cost $cusine hotel near $location
+need a table in $cost $cusine cafe near $location
+need a table in $cost $cusine joint near $location
+need a table in $cost $cusine eatery near $location
+need a reservation in $cost $cusine restaurant near $location
+need a reservation in $cost $cusine hotel near $location
+need a reservation in $cost $cusine cafe near $location
+need a reservation in $cost $cusine joint near $location
+need a reservation in $cost $cusine eatery near $location
+need a buffet in $cost $cusine restaurant near $location
+need a buffet in $cost $cusine hotel near $location
+need a buffet in $cost $cusine cafe near $location
+need a buffet in $cost $cusine joint near $location
+need a buffet in $cost $cusine eatery near $location
+
