@@ -1,2 +1,2 @@
 # Chatbot
-Order food in a Restaurant with Chabot
+The Chatbot that can take Order of food in a Restaurant and book a Cab
