@@ -1,0 +1,49 @@
+location,cost,cusine,resturant
+north,cheap,italian,Little Italy
+north,cheap,chinese,Mainland China
+north,cheap,southindian,Royal Chef
+north,cheap,northindian,Dal Roti
+north,medium,italian,Cafe Utopia
+north,medium,chinese,Zhangs Restaurant
+north,medium,southindian,MTR
+north,medium,northindian,Tandoor and Spice
+north,expensive,italian,Via Milano
+north,expensive,chinese,Big Wong
+north,expensive,southindian,Nandhana Palace
+north,expensive,northindian,Ganesh Mess
+east,cheap,italian,Go Italia
+east,cheap,chinese,Chung Wah
+east,cheap,southindian,Ananda Bhavan
+east,cheap,northindian,Delhi ke Bawarchi
+east,medium,italian,Onesta
+east,medium,chinese,Flavours of China
+east,medium,southindian,Taaza Thindi
+east,medium,northindian,Northern Bites
+east,expensive,italian,Alba
+east,expensive,chinese,Shanghai Court
+east,expensive,southindian,Upahara Darshini
+east,expensive,northindian,Chakh Le India
+west,cheap,italian,deja vu
+west,cheap,chinese,China Pearl
+west,cheap,southindian,Udupi Upachar
+west,cheap,northindian,Paisa Vasool
+west,medium,italian,Take a Break
+west,medium,chinese,China Bowl
+west,medium,southindian,Athityam
+west,medium,northindian,Maa Tarini
+west,expensive,italian,@Italy
+west,expensive,chinese,Chinese Momoz
+west,expensive,southindian,Vasudeva Adiga's
+west,expensive,northindian,North Indian Mess
+south,cheap,italian,Pizza Stop
+south,cheap,chinese,Beijing Bites
+south,cheap,southindian,Ruchi Restaurant
+south,cheap,northindian,Punjabi Times
+south,medium,italian,The Airos
+south,medium,chinese,Ooogway Express
+south,medium,southindian,Halli Mane
+south,medium,northindian,Mahesh Friends Food Center
+south,expensive,italian,Euki
+south,expensive,chinese,Fujian
+south,expensive,southindian,Sri Shankari
+south,expensive,northindian,Ghar ka Khana
